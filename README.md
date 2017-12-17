@@ -59,6 +59,7 @@ yilia的相册
 	}
 }
 ```
+照片太多可以自己写程序简化操作，可以看下我曾用过的思路[https://blog.ctftools.com/2017/12/post234/](https://blog.ctftools.com/2017/12/post234/)
 
 略缩图可下载这个软件批量生成
 
