@@ -2,6 +2,8 @@
 yilia的相册
 这是[Litten](http://litten.me/)相册的修改版，版权归原作者所有
 
+#### [点此预览效果](https://blog.ctftools.com/photos/)
+
 ### 使用说明
 
 #### 本相册适用于hexo-yilia主题，移植到其他主题需要改动
