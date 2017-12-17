@@ -19,8 +19,6 @@ yilia的相册
 
 5.去掉ins.jsn中的src选项
 
-#### 这是[Litten](http://litten.me/)相册的修改版，版权归原作者所有，源文件见[Litten博客备份](https://github.com/litten/BlogBackup)
-
 ### 使用方法
 
 1.将本项目所有文件保存到您hexo的source目录下的一个目录里
