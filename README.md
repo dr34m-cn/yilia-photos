@@ -14,11 +14,30 @@ yilia的相册
 
 1.将本项目所有文件保存到您hexo的source目录下的一个目录里
 
-2.将原图片保存到ins文件夹下，图片略缩图保存在minins文件夹下
+2.在本目录新建ins与minins文件夹，将原图片保存到ins文件夹下，图片略缩图保存在minins文件夹下
 
-3.如果原图名称为xxxx.jpg，则略缩图名称为xxxx.min.jpg
+3.之后source目录树一般如下
+```
+├── _posts
+├── photos
+|   ├── ins
+|   |   ├──pic1.jpg
+|   |   ├──pic2.jpg
+|   |   └──pic3.jpg
+|   ├── minins
+|   |   ├──pic1.min.jpg
+|   |   ├──pic2.min.jpg
+|   |   └──pic3.min.jpg
+|   ├── index.ejs
+|   ├── ins.css
+|   ├── ins.js
+|   └── ins.json
+└── CNAME
+```
 
-4.修改ins.json与您实际情况相匹配，其中图片名不需要写后缀，描述部分随意，图片尺寸格式为图片宽度x图片高度，例如：
+4.如果原图名称为xxxx.jpg，则略缩图名称为xxxx.min.jpg
+
+5.修改ins.json与您实际情况相匹配，其中图片名不需要写后缀，描述部分随意，图片尺寸格式为图片宽度x图片高度，例如：
 ```
 {
 	"date": "2015-05",
