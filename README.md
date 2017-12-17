@@ -59,3 +59,7 @@ yilia的相册
 	}
 }
 ```
+
+略缩图可下载这个软件批量生成
+
+链接: [https://pan.baidu.com/s/1slULnUd](https://pan.baidu.com/s/1slULnUd) 密码: 54je
